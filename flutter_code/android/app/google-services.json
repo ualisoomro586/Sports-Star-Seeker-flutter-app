@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1076005395822",
+    "project_id": "sportsperson-9d733",
+    "storage_bucket": "sportsperson-9d733.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076005395822:android:ea6d6c11c34dfc6570f57f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_code"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPypHwrjOLcjD_p6Zm6UhyUiW_vsHCnkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
